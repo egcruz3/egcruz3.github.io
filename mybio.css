@@ -1,0 +1,43 @@
+html { 
+  background: url(images/biobg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+div{
+	z-index: 1;
+	width: 1700px;
+	height: 1100px;
+	background-color: rgba(0,0,0,.8);
+	border-radius: 5%;
+	padding: 40px;
+	color:#efeee7;
+	margin: 0 auto;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	font-size: 35px;
+	text-align: center;
+	border: 4px solid maroon;
+	font-family: "Open Sans Condensed", "sans-serif";
+}
+
+h2{
+	background-color: rgba(0,0,0,.9);
+	font: "Amatic SC";
+	letter-spacing: 1px;
+	color: maroon;
+	font-size: 60px;
+}
+
+#photo{
+	border-radius: 25px;
+	border: 2px solid #efeee7;
+	height: 450px;
+	width: 450px;
+}
+
+section{
+
+}
